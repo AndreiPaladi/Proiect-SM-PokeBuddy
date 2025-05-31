@@ -121,7 +121,7 @@ void draw_wireframe() {
 void handleRoot() {
   String html = R"rawliteral(
   <!DOCTYPE html><html><head>
-  <title>Accelerometer Ball</title>
+  <title>Gyro Ball</title>
   <style>
     body { font-family: sans-serif; text-align: center; }
     #playground {
